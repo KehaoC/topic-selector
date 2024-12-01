@@ -1,0 +1,57 @@
+Parameters:
+Working on Keyword: Executive Incentives
+Max Citation Count: 10
+Max Results: 3
+Max Years: 5
+
+
+================================================================================
+📄 Title: Executive incentives, team stability and corporate innovation performance
+🔑 Keywords: 高管激励, 团队稳定, 企业创新
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1544612323010620
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+3
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+1. 技术创新、营运资本与企业研发平滑
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWJ35Ongffe18gTY1MsmGqf0e3JUEm4kj7G2-tYcVoQoKVES79PbIQiVTU_ItfNlDvukrL5Qc52EtIyH9jI0RfdocJJ9ODDPW5iqw_br700Ad59QM0wGFfG1zcgJMuadP60XrC5oqwFHFOXrCAipvvlmBCWn3jzty-Ua5t12ihoiLfE0Y-NnX7I&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+--------------------------------------------------------------------------------
+2. 民营上市公司高管激励与创新投入关系研究——基于企业成长性的调节效应检验
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhV0Gg_Dz9T_aizzduPeSCFTSmO7d0xev7KHbbjjeidHK7UfyBLTog8OOZzvkbXKQpBIRhqqtKtwVb4mEasyqMLsQ5Q_xUFDVbtvp7S4Sq06nYdtxGRHHG0eckAwHO333Yx4vACjFyrcGRngW2GPZnRI8CPwC09bX9SwhsA03qYolWGuBJZ4V4cJ&uniplatform=NZKPT&language=CHS
+   📊 Citations: 20
+
+--------------------------------------------------------------------------------
+3. 高管团队特征、高管激励与企业创新能力
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhV0Gg_Dz9T_aizzduPeSCFTSmO7d0xev7ItfRKkH-GVlJaPo64nSACvlclGaqJH19W9eg833OhfMqvdVmhq9ExxJF4vuyzUSBMOWjshWPGp8bu8b16FSTzmK9BjyZSSFAxrGeCDt_SS255e9fcRdMXvLDLXsDpDRCIPK_0F15rDLowqHmzlZvBb&uniplatform=NZKPT&language=CHS
+   📊 Citations: 61
+
+================================================================================
+
+
+================================================================================
+📄 Title: The perspective of long-term and short-term incentives on the business environment, executive incentive contracts, and enterprise innovation
+🔑 Keywords: 长期股权激励, 短期激励, 企业技术创新
+🔗 URL: https://journals.sagepub.com/doi/abs/10.1177/21582440231206960
+📊 Citations: 4
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Essays In Executive Incentives
+🔑 Keywords: 高管激励, 股东价值, 债券股东
+🔗 URL: https://search.proquest.com/openview/0f8d2091111395a5c23bf3900e0ba560/1?pq-origsite=gscholar&cbl=18750&diss=y
+📊 Citations: 1
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+

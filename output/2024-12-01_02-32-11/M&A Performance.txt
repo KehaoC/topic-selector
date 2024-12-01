@@ -1,0 +1,186 @@
+Parameters:
+Working on Keyword: M&A Performance
+Max Citation Count: 10
+Max Results: 10
+Max Years: 5
+
+
+================================================================================
+📄 Title: Explaining M&A performance: a configurational approach
+🚩 Abstract: The starting point of this section will focus on M&A performance. Afterwards, the explanatory  variables, their rationale and how they influence investors’ decisions will be tackled.
+🔑 Keywords: 兼并收购, 企业整合, 投资决策
+🔗 URL: https://www.tandfonline.com/doi/abs/10.1080/00036846.2022.2091107
+📊 Citations: 1
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Does the structure of the board of directors improve M&A performance?
+🚩 Abstract: sample consisted of 2,613 mergers and acquisitions and was  M&A performance was  assessed using cumulative abnormal  to the measurement of M&A performance, which is very
+🔑 Keywords: 董事会结构, 并购性能, 事件响应
+🔗 URL: https://journals.umcs.pl/ijsr/article/view/8228
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Family firms, M&A strategies, and M&A performance: A meta-analysis
+🚩 Abstract: to M&A performance, we suggest that family firm acquirers can influence M&A performance   the literature on M&A performance, we further propose that domestic M&A strategies mediate
+🔑 Keywords: 家庭企业, 并购策略, 并购业绩
+🔗 URL: https://journals.sagepub.com/doi/abs/10.1177/01492063231178027
+📊 Citations: 7
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Board reforms and M&A performance: international evidence
+🚩 Abstract: Board reforms and M&A performance To investigate the impact of board reforms on M&A  performance, we adopt a quasi-DiD method. Specifically, we compare the deal announcement
+🔑 Keywords: 董事会改革,  합并运作, 调整识别
+🔗 URL: https://link.springer.com/article/10.1057/s41267-023-00674-3
+📊 Citations: 6
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Developments and challenges of measuring M&A performance on a corporate and macroeconomic levels
+🚩 Abstract: between specific methodologies employed to gauge M&A performance on a micro- ( M&A  performance on a firm level and methodologies measuring consequences and effects of M&A
+🔑 Keywords: 企业收购绩效, 宏观经济分析, 企业微观分析
+🔗 URL: https://www.ceeol.com/search/article-detail?id=554756
+📊 Citations: 9
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: A Comprehensive Analysis of Mergers and Acquisitions Performance: Determinants, Methodologies, and Future Directions
+🚩 Abstract: M&A performance. Next, we detail our methodological approach, followed by an in-depth  analysis of the determinants of M&A performance.  discourse on M&A performance, providing
+🔑 Keywords: 并购绩效, 敏捷的评估, 企业併購
+🔗 URL: https://www.revuefreg.fr/index.php/home/article/view/1756
+📊 Citations: 0
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Convergence between Indicators for Measuring Sustainable Development and M&A Performance in the Energy Sector
+🚩 Abstract: of M&A performance, Meglio and Risberg [14] have analyzed various M&A performance   The authors conclude that the inconsistent findings relative to M&A performance research
+🔑 Keywords: 可持续发展指标, M&A绩效, 能源行业
+🔗 URL: https://www.mdpi.com/2071-1050/14/16/10360
+📊 Citations: 8
+
+Related Chinese Papers Numbers:
+10
+--------------------------------------------------------------------------------
+1. 金砖国家可持续发展评价——基于SDGs指标分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUC6omGUq5mE2LO9j5boDmTXloRuN1dinvKhZT61PJdmhD-lzSQzOLTJw9-TB307pCS7fvKSRObE7cr4jwTqXXcwe5AMCvBZvqsL0MgkNTtt9ix9E6v6lcKAfWi3_klq4rM2djvroUK9PWEv1esC1UXd2SRPTyEFB5m4QSUmY-jCTSaFkM1JJL5&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+2. 基于职业可持续发展的大学生素质评价：理论、模型与指标体系
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVx4F1YeyYOgoOAOLebnUPvcMZBB8lUTbtZ0QGWZnNAGH9Cd5_Edu5xka0VbLymnRNnnVwLdO1h1DcvnnOwgKCnPaukYRF-bo8ZgzPnu77Dx42ltCoejGbghp0FFFOkIeSiNHiSW9M_U1fLAYWDhsJpgfw-CuTwuWKfTiRaVtXGfm-DvjDdNeHU&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+3. 惠民保可持续发展评价指标体系构建研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVx4F1YeyYOgoOAOLebnUPvcMZBB8lUTbu1bE17GHuH6PHWtO9CglTykPzMLjXa_qvR2VW_MWVNL_XVSTKyEre71dk7YTzAa-G6j1sfvd4Dk2Vmxgsw1Mr3KnqWbljlVnrU76eMlEs5_iRNP_vl0BpylOfwsEjT0OJh2_5Brg8X_EY7vxFiy64c&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+4. 应用型大学教学创新环境可持续发展评价指标体系构建与实证分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVx4F1YeyYOgoOAOLebnUPvcMZBB8lUTbuNyvP2W3KpiX3S5WJ_PtQm0kpUdDse_iUnCAT7uW-YNFvD9pqUpFXFztpqjD06CptLs_NP6vxP39aFmfiaoZklM8SWw2VqcV8AtrBwMDPQAB_cZuKRdbvjb-jwQWFee92bnvkvUcHrmykFNx89L6PV&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+5. 可持续发展背景下企业水安全评价指标体系构建与应用
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXyN4adQx7p25vgBIrRoFxNIOms_uVHTQl9pCCMICwMxTQP0HdrJLZV7SnJQUhk2cXNsPQ5EeK5r2NhjnuNh4OQ5nUSvjgiNE0b6arWxulG1Vq0EB1Kdf9bbpoKeBrXYOxM_0-k9JNGJB3vCsUXknC0kDc2GqZidkJOamQVP33Ja5fZfd4u0Kwp&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+6. 港口可持续发展评价指标体系构建与应用
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXyN4adQx7p25vgBIrRoFxNdT1gMx3GCMYax1IpRIIVG00P-96OxiAncavVaYcX_I1OQQFvAn936l5Ii679woSUBlXUFed-ApMwRr1VWcta4T7WrA0uMjgTR3WpRSWnrIh5SD5Ll66BEFNAx3WUiV8EdRRuep9_5TwJlNra0u6mv73bJ3Q7SKco&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+7. 高职教育生态可持续发展的内涵特征与评价指标体系构建——基于中部六省高职教育质量年报数据的分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXKDIPQtyRGhD1WTv6R23XZDdUZmkzlpji78fgavq1yevlf5Qg6UrQ8KQ91pHH9FTi6yAWhwfD2kLI0PaUSZSJeAWSV3l_4Jvo04N4Vlw554xJ-UsrL9SqNfykjDKoWjDhI5GnsKEeM8z2YaewitQifVshSWQDU1IxzaQnRrfCIiaM4cZ-UOAjX&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+8. “城市和社区可持续发展——城市指标”系列国际标准对SDGs的响应情况分析研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXKDIPQtyRGhD1WTv6R23XZDdUZmkzlpji8ztgvh_xFsFyCQGzmvc0EItWQvvIT6oTxMHSwz2uJuy1NMBU9PiIPMBHGGFePexO7oC2xsWSOI5rj1aHssmyDu-jUdVIAgTYxpaUXOs55kiRD0emRNSZNcRIPZFkfVLSTrDWRIf_j56_ZX3QX8YWc&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+9. 产业链供应链可持续发展的评价指标体系设计研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUnyjhNq4VjyvURQKRjGQXQjhwiA7Z7pQG1cBG5znX9TdHIzoE689qsgMCrS6VoXs5smnuI1k3-zplMySL1BP6-W19HNrC7XTMmEiaevTN3FzV-N3uzzXNTIcqJ5Bi7lZVlf00uUMNug4OdORZ2WQYlTo28W-6loxu_qOgZn2sTwzofLImFCM6K&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+10. 我国学前教育可持续发展评价指标体系及其测算
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUnyjhNq4VjyvURQKRjGQXQjhwiA7Z7pQGZmyo7xbbaW9vV6NfmYYYHr6t_5ZOe5ODjYoseO6TxZCT3S2wTSZEnDbjn-ouZVAHrQSE0F7trsDy3GPKQKxh2Sctz1c2bhK8AOiuxzU3M2bEp7vsDPVV_3oHLJeIjrNVoJwLTG6kfEd8bPeARde9r&uniplatform=NZKPT&language=CHS
+   📊 Citations: 1
+
+================================================================================
+
+
+================================================================================
+📄 Title: Performance compensation commitment and long-term M&A performance
+🚩 Abstract: M&A performance and its dynamic that are more crucial to an M&A; Last, this is the first  attempt to explore the long-term dynamic of the impact of China specific PCC on M&A synergy.
+🔑 Keywords: 并购协议, 长期绩效, 稳定性
+🔗 URL: https://www.tandfonline.com/doi/abs/10.1080/13504851.2022.2117269
+📊 Citations: 4
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Board overconfidence and M&A performance: evidence from the UK
+🚩 Abstract: an important lens to explain post M&A performance. However, research  post-M&A  performance. In this paper, we ask whether managerial overconfidence can explain M&A
+🔑 Keywords: 董事长过度自信, 并购效果, 英国企业
+🔗 URL: https://link.springer.com/article/10.1007/s11156-023-01133-8
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Stemming the tide: Does climate risk affect M&A performance?
+🚩 Abstract: factors affecting M&A engagement and performance. Bose et  and applied for M&A  engagement, performance, and greater  CCR in M&A activity and subsequent post M&A
+🔑 Keywords: 企業收購, 氣候風險, M&A表現
+🔗 URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/bse.3518
+📊 Citations: 5
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+

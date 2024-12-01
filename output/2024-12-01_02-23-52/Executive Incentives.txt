@@ -1,0 +1,82 @@
+Parameters:
+Working on Keyword: Executive Incentives
+Max Citation Count: 10
+Max Results: 2
+Max Years: 5
+
+
+================================================================================
+📄 Title: Executive incentives, team stability and corporate innovation performance
+🚩 Abstract: executive incentives affects corporate innovation. This paper explores the role of executive  incentives on  for the role mechanism between executive incentives and corporate innovation.
+🔑 Keywords: 高管激励, 企业创新, 团队稳定性
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1544612323010620
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The perspective of long-term and short-term incentives on the business environment, executive incentive contracts, and enterprise innovation
+🚩 Abstract: This study divides the types of executive incentives into long-term incentives and short-term  incentives. It analyzes the impact on the level of enterprise technological innovation, but
+🔑 Keywords: 企业激励, 企业创新, 长期激励
+🔗 URL: https://journals.sagepub.com/doi/abs/10.1177/21582440231206960
+📊 Citations: 4
+
+Related Chinese Papers Numbers:
+10
+--------------------------------------------------------------------------------
+1. 股权激励机制能提高企业创新绩效吗?
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUQhFwq5J3N_paF6U6ADbQDg0frVWuz8z0fz8ItqrrpolpSyPIfdwBkrC--S__WYMSFYHjGbD1GkXaT61jlv1H-uFzeK9p8j2Z6pLrRrcxdRCGFH-QCEnDTbmyiRGTdKuZ1bUy9s9qCU9ITMifPx65rYaH9IH-B51t9w8s1A-4E-ale5JzrfQ_b&uniplatform=NZKPT&language=CHS
+   📊 Citations: 3
+
+2. 管理层激励、董事高管责任保险与企业创新
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUQhFwq5J3N_paF6U6ADbQDg0frVWuz8z13O5OkBg-mJjk4HxZTMVyk97KPW3o9FUDfbnOCyaehkAzzuWkQOuy2ppjPcFyxLGXKUWAo21ua_arP2pls1bfn8_Lv6oWwfLqoCCSgmwveO4SmpDlO43y9twxlnBDC1XJ0Ec1BNp9m22bSzxgxB3rO&uniplatform=NZKPT&language=CHS
+   📊 Citations: 1
+
+3. 卖空机制对企业创新决策的影响
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhX1iaYqtx1lxM1rt-mdmONM9Gd_iAGMZt-UuvaIsoDyGqJ_joQ5gSWjVuKi91bPypkB7wSpUhat0idwi4bHz-OnoHTldEHrqrGX72Bi1dCuLGfUJuyBKXdY0txHsUjMiwMrf6OuD8pLSXER_3cxkO4juXs8LBmKAFEodojyNOKyVuBUhvfOlNbf&uniplatform=NZKPT&language=CHS
+   📊 Citations: 1
+
+4. 数字化与企业创新
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhX1iaYqtx1lxM1rt-mdmONM9Gd_iAGMZt-Ni-5_dOQUYuR2OM144hJrA5ndgOG7vmzbRq15pPFBaOv_tk8fI4DX7G_d-lnzKnxW-GnxU7boak5of_L01tDWPt9NhnX0e_a6hKnLM-3XCclPcjxBE0sAk3AkzZHFN32Gf9ly8ccR98hlO1BKFrhv&uniplatform=NZKPT&language=CHS
+   📊 Citations: 33
+
+5. 高管激励、创新投入与企业绩效——基于医药上市公司的实证研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUBxHqAx4lyKwLy5xIk4EXV4U_y7jMW8dDZc-_Fit6rzunmmTX9qtExmjrdAbgHKLVVZcDIIl-cRlpqoPN4DSHYGfkitxW0eoK2OC_S2NLG7txoT3VfPdssMMnyRVnRWieIHyC0VaE_UZ7p_VU9mNuINXCAe-VusFNfw_6iNLwJwEBVcicVZlT1&uniplatform=NZKPT&language=CHS
+   📊 Citations: 110
+
+6. 股权激励对公司治理影响研究的现状与展望
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUBxHqAx4lyKwLy5xIk4EXV4U_y7jMW8dAGvNEDcAvVI5qLhfq9iZwgs6kHwMnjsu1HNBuolEDWx2Ly5pl4xNmJboYBEJ3wcraUBg7MR0r9WITUSMbhJlafxX88ZBiDl7QZim8rP61T1EyvyYyNcUF8jetPe7oQOiZlBlx1wfOeUAxEqEl6hul_&uniplatform=NZKPT&language=CHS
+   📊 Citations: 22
+
+7. 国有科技型企业人员创新激励机制研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUBxHqAx4lyKwLy5xIk4EXV4U_y7jMW8dDgi1XC0JxZ9qHSBXxba-rkSK5pc4DEvDtjbgTSKRORv6Yi4eSUR1f4_oFrHQD0E6AtW7pHWBhOfyv6FYaE6xiJbFcPX81dtoTvwSyYdvLNYCy6XfQTi01T16sMBLMhrtNMn7z5Lek1fx0oh56GJ9nn&uniplatform=NZKPT&language=CHS
+   📊 Citations: 16
+
+8. 转型经济中民营企业成长的中长期激励机制研究——华为推行TUP的产权制度创新实践与理论启示
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXoXA3lJvVGm6w0q3pLDgLwZICMVnuoek53qndWZdRzIk-N5_L_ZQUuGMPtO1racDaH8IMTGV3WD2ucFkxcWaIwXopRmk5f4DEEjVsr3Z_hU7WzCAfhWOPerBJuRh_JxZFmszF8BKdmDbXvZ1xAJb0DIAtVPABGjBF8mYBB0WzHvI8U_eF1TfU5&uniplatform=NZKPT&language=CHS
+   📊 Citations: 103
+
+9. 创业企业的长期股权激励创新对策
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXoXA3lJvVGm6w0q3pLDgLwZICMVnuoek6sLsPEf4W1-0Av05M2legZq824DvvjsBbdunCQVv8MpQ4soMxyj_wXfGHgwa33NPQN1lq7QcJbiZGPXWF9Z3ahPAve1VxzcbVLX5Qka5BmKZn1jcqvwBEAG6-tSvEoacw-iaDnp2bM33Vf_luzEc7g&uniplatform=NZKPT&language=CHS
+   📊 Citations: 4
+
+10. 人力资本、内部股权激励与创新企业长期产出的增长路径
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUH3MZE31nVWmFR0v6y6fLtVt-Cp_aFYCb3gJksQSnXSHq1Hk3b8QbD5kNSlsXUT0LjH5dxlE__4sQPQA0RCTf-jxHXlsG-ePc_hBzNFs-ElO2CxQEN-4IeFUsLZumLSkK_CUSYg8t5Fs-TpLEe0Gkrlyey16wY7JaDYUMjunDwEYM1HTJO_ygL&uniplatform=NZKPT&language=CHS
+   📊 Citations: 100
+
+================================================================================
+

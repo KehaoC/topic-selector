@@ -1,0 +1,266 @@
+Parameters:
+Working on Keyword: Corporate Digital Transformation
+Max Citation Count: 10
+Max Results: 10
+Max Years: 5
+
+
+================================================================================
+📄 Title: Is more digital always better? A nonlinear perspective on corporate digital transformation and OFDI
+🚩 Abstract: This study investigates the nonlinear impact of corporate digital transformation on outward   relationship between digital transformation and OFDI, wherein digital transformation initially
+🔑 Keywords: 公司数字化, 外商投资, 非线性关系
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1057521924005817
+📊 Citations: 1
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Digital transformation of corporate governance
+🚩 Abstract: corporate governance process, focus on the peculiarities of corporate governance in the  context of digital transformation  and disadvantages of corporate governance digitalization. The
+🔑 Keywords: 企业治理, 数字化转型, 公司治理
+🔗 URL: https://www.fkd.net.ua/index.php/fkd/article/view/3807
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+10
+--------------------------------------------------------------------------------
+1. 党组织嵌入与民营企业数字化转型——新兴古典超边际分析与实证检验
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhX49T687c2FCdhsREF8yNMLJ12cVzX4NAZ6BVhJlHOnR9S2dLLZRgVbSM6nHVyXdTXjnXv65J6Qqor_J-8Z9nAeeFPpHAQDSZsjx1HDWs1pGXfx9KCd6Fb-ySsS2QX76XgtF06FcuP1_ma1qFJuRm_NwXEwqQ55hvhndiU43eNizkz93uOaZNN2&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+2. 数字化转型能否提高企业ESG表现——创新资本中介作用的解释
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUC9Pish0qWW8HEjS90joa5c4QENOc5ULKCfUpflKPnVcjnKIITAvp0QpG-HturWPRsbzgjrGx2S3lq7BCzoMwMARRRwlYFfxF1wQSsooOBgxmf3YEB8ZdDzGHMwdbokU9glk6VjQYL2niTvy9iTrt1QblM7e1bDVp_x0cLI-xQT4Jz4zBD8j4I&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+3. 数字化转型、ESG表现与企业融资成本
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXYeNGCw9KNqdNxM5YiSs4GMHfZYnxDa6S4SlFF5OIwQK-7h-A_BSTX7Ggj6sVyO5SBxiQ_jRn7ExThLUUNdokdx_zPFllUn0QssxjhhSfp5MVv17b2U1Wr2WasEItX17oGnPLWq3j7K0tpKNCYEqhhwuG8A0ih-RsoMayhAcsfkjl65RrC0DFn&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+4. 企业数字化转型对企业内部共同富裕的影响研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXYeNGCw9KNqdNxM5YiSs4GMHfZYnxDa6Qc_woqSev_jm_kFwhINCnPTeCuSuL_fEefAhDlWsAbYrm3M11lGyu6YoGyPaSsCC5ems2Mb6XaPqwhhoZgu5hzOd-kEbdoq1jwsXYs116XED2uiCNbciYbkchblWHQKFU8HUDbgZQzaUG0zHM0QapI&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+5. 数字化转型、内外部监督与企业声誉
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXkOQ-GMUgN94G0XF3Ri5PG8cwf2BvhY18J2NGTpsBxwY8HH9EOkgPddBGp2xeYn-DMwPkcMlGiGdb96IjfDp1ahZvQm0ekydLz0JMGc1YqdcuSDzass5nFlv8ahMzcVO0KUg4rHBnPynTQZzP7jHJgAcmlRQ-k2gPQZO7JbKKtbYncX6_CqoHZ&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+6. 数字化转型对公司治理结构的影响及趋势研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXkOQ-GMUgN94G0XF3Ri5PG8cwf2BvhY18TdIAc476y3XtA8QuLmnxzW0gES6arHX3wrQXfJFlk-ejMX2VwYrhAncIDb9fSM9GM30EdcK4Dib9eCEp9vAhXu3dKJC1VykxCow9JtumbbWTOSbx95sIyx-f_wToAAaYljq3ODaAT1hFta585uYit&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+7. 企业数字化转型的治理效应：基于财务重述的视角
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUxls0PSz1c9BHZV1QnaFNO1rXtkmdoqZfNBEysXKcPcC5-nRf4ekP3LgtcWg1UeuARwXYvALIF_VtNo6jSd47AdMu-Sonkm3Tp2B25vEIHgSqD_dxBti-UwEJ5rC86cUaxPoTbThEiZPoVz9RFAsaUBy0fB26LOXaYME1DMoF-P3kpQ5k5tRbn&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+8. 银行金融科技能改善企业投资效率吗？——来自中国上市公司的证据
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUxls0PSz1c9BHZV1QnaFNO1rXtkmdoqZfDN4ewvCLoge8-R6Zb8Lwf_o8eO2_1LycwCSNkSUjcIaytLFiuzWn1Kw90JrPF6XREPliMAlLa5pohxULYeTkjkNkkgBzH6Z8egNR6_ltK1bqIBRHDHfPkfcvCY18p7B2b8IksLwEkD7lEn9pHXWkM&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+9. 商业银行数字化能否改善企业投融资期限错配?
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUQRCHj95948LX-64kpAFerWtYfXkEkSWXatQt0Jv6nu2FXCB1YPLaWRvWhuF-2oiSZOM4vz48BqeAMda_8P_dywnNYZfQHzwn_EkBWLmq-Zm6h4MNY2PaKLcikvZDdxRSYSwGdMeRzh1xLsVtDgmSsCEQm_YD7UgW6XTb2Uk2KIKCM6LuLtxtN&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+10. 企业治理与ESG表现的关系——基于行动者网络理论与fsQCA方法
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUQRCHj95948LX-64kpAFerWtYfXkEkSWUirvBccQ461c2fBmIQDI7ChghIwIdk6WFxTlsUucp6ELDKNOtDxFYcjw3gSQ6QtgEHcL1CKCP5E-q8tH8N9avSUO2FASOPSNNnxwwRG4yJ_cF1XicRRXbHuTKdne9tzqf6g6kXrcxozNs2YpJ-Gv76&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+================================================================================
+
+
+================================================================================
+📄 Title: Digital transformation and corporate strategy
+🚩 Abstract: skills, and corporate culture. We extend the discussion on why digital transformation is in   of when and how it may become part of a corporate strategy toolbox. A simplified model of a
+🔑 Keywords: 数字化转型, 企业战略, 技能
+🔗 URL: https://cyberleninka.ru/article/n/digital-transformation-and-corporate-strategy
+📊 Citations: 3
+
+Related Chinese Papers Numbers:
+10
+--------------------------------------------------------------------------------
+1. 数字化浪潮中的人力资源管理师：转型与重塑
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXBPYVamckkWHQVIRPuOEQiz3QRWn3hhLOGyeLPdel00whxD3flRvR06pp6CHYufldyDlgOL28C1TC4Rm2F-7_vuiO0G6jmyKqRxuS7fktXylLzQEaZBC2dE20b6R1UjFVlW53rXrcoN7sSJ1XnhBVaw2whREYZH4MG4vq7rfOGDMK3WKkwMC99&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+2. 数字化时代人力资源管理的转型挑战与机遇
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXBPYVamckkWHQVIRPuOEQiz3QRWn3hhLNlP5ZS4wCp4xe70wFMt0QIxCCAoibUFu_DG3iEcBvUcxWDQ-kQmkU1m9Lb97eQDgdsyjOdJeBwotKZlwLydHu1IuCefjPRSot9f43SV0iUCircV_22x4ppNq4QEcLNobeccuwS33DeqXoTlVlwQxml&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+3. 企业财务数字化转型中的问题和路径
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXuCgZ_RuaP4hSSyp0GA0IciTai_8MpjWQUeamDyeuYYNx0_xJOF2ykt6ZgJIv-qxo0kqqAghInHOsvOPmH3FSbnHHcCHT6Tj7x-weHHuUumYHkSBx4TWtVzabXFPb49i_W2jhuVa3FqlU0TBvbukpjjxrnMRc9ipDLa0D5o0lyFJaLRXXkHAab&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+4. 高管团队信息技术背景与企业数字化转型战略——基于数字战略认知框架
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXuCgZ_RuaP4hSSyp0GA0IciTai_8MpjWRTwN38JfYzNko_FI9yKkz6pFLKyG6Ln-zZq0H5fRWdtwDzYIUxobx9SPPKgHwJ_wOjHGn2iFYdDdGanMxYtXDFrkMKmk3tn5OchK0LYmFeFfSmo5CaPdM5wy_Won-Ayl_zOlU__u0PdVmNGx1Vq8sC&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+5. 数字化转型背景下企业战略管理的创新与实践
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXv9f7L2gwrAfXkmq-AByHL5kh08ipqVmoseJAJKvhLfWNcZLvU78Pmg1ZLJ0S_WICSG5fsl7CwHG2lEXygMoyWDu3in7qPpuAFGxNThXdJj1OtgGIrEuciPTcH0W9FOe4PIUdRCwxpO8oY2oiZ_5l9Uk45NyycpjTQb5NUhw1x3Ns9rhryajFO&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+6. 数字化时代下的企业人力资源管理转型及其路径选择
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXv9f7L2gwrAfXkmq-AByHL5kh08ipqVmrxf7M76BS5lAxdtabLZI8N4vI78fUn0hxTjIOWOeOoy7-LSRFLay0UY2RxasSKc6cOKBh4BdEVa8crH4-DEQpo0kz1kS1RVzu6IlmYLLx9yVNhsBnnhbZFnOQ5X3gBst8w1gCpH_eMvgosbXx_yF04&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+7. 企业数字化转型与对外直接投资探讨
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXv9f7L2gwrAfXkmq-AByHL5kh08ipqVmqU0sQoxBSBugKzIXQ7kKbAQ3To8UBPwpEFBNRzjvsaAk-owZaG_58iMJpgLnBYv0bGaQoe5i8GbxlEWNIn2KizqNmXDNHUg22GrZRnQjXPLfVWfsqF-NfBbqUsFpOQBhVsKcd9WJO8C2JoV8Ij4CqP&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+8. 数字化转型对中小企业品牌忠诚度的影响研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWmC9170b790fh8yv5EfRj679FPdR5y-4OVPePjiGtSTXjbJVYWedWRwjmlFCrTwFZl6KmPwAt85pMIJM_AbSW5hG-XZfzpc3z14L9HrCVV-TrKlz5iY0j6N0_Xnoj1ixmloWlq88pzPJx1u4TmjZ3X8X-J45TwEsO4_q6Ut-zj7LWqX12xg7wo&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+9. 企业人力资源管理的数字化转型路径探析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWmC9170b790fh8yv5EfRj679FPdR5y-4NGsr8L21ozSRn4MFeOhnSsPWSA6H4rSEEh2ebEpAuzfa0Rc4KXf05Q7J7yIRJSs4NswkDZwvcml6DjrKT7M7F5n5Ofc5LiJ1zIh_ZAr76a0Kde3_y_HoyfXLPui4UBgdGXROUnazkphgHl3PQqqN-9&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+10. 数字化转型背景下的企业战略管理模式创新研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWmC9170b790fh8yv5EfRj679FPdR5y-4MTV6N_AIeq_r_0ebkkOV33MH1GmqbsDPA7ayfiJ6hK_X2IrI5iFmh18QR-a6I-g6xlTbo7o54cTUQVm2UeQ9Kl3fBdLLQ5XfJ3330hcPVvlYspgjcNvoBP9UagvC0ZyKzXQnB_2jnbBrn0CagiC2Ng&uniplatform=NZKPT&language=CHS
+   📊 Citations: 1
+
+================================================================================
+
+
+================================================================================
+📄 Title: Digital transformation and corporate restructuring: does corporate governance matter?
+🚩 Abstract: This paper aims to examine the effects of digital transformation on corporate restructuring  in  between corporate governance and digital transformation in the context of corporate
+🔑 Keywords: 数字化转型, 企业重组, 公司治理
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/JSMA-04-2023-0084/full/html
+📊 Citations: 7
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The impact of corporate digital transformation on labor employment
+🚩 Abstract: This study characterizes the degree of corporate digital transformation (Digital) by dividing  the total frequency of digital transformation-related terms in the annual reports of listed
+🔑 Keywords: 企业数字化转型, 劳动力雇佣, 数字化转型度
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1544612323012606
+📊 Citations: 8
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Corporate digital transformation and strategic investments of construction industry in China
+🚩 Abstract: find that digital reform increases corporate R&D investments,  effect of digital reform on  corporate innovative investments is  by digital transformation indeed strengthens corporate ability
+🔑 Keywords: 企业数字化转型, 基础设施行业战略投资, 数字.transformcation
+🔗 URL: https://www.cell.com/heliyon/fulltext/S2405-8440(23)05087-9
+📊 Citations: 7
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Do young CEOs matter for corporate digital transformation?
+🚩 Abstract: CEO age and corporate digital transformation. Using a  propensity to engage in digital  transformation when compared to  between CEO age and digital transformation does not vary with
+🔑 Keywords: 高管年龄, 企业数字化转型, CEO年轻性
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S0165176524001198
+📊 Citations: 4
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Digital transformation and corporate performance: evidence from China
+🚩 Abstract: We find that Enterprise digital transformation improves corporate  Moreover, digital  transformation enhances corporate  policy implications for promoting digital economy in China.
+🔑 Keywords: 企业数字转型, 企业绩效, 中国数字经济
+🔗 URL: https://www.tandfonline.com/doi/abs/10.1080/17538963.2023.2254138
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+1
+--------------------------------------------------------------------------------
+1. 数字经济驱动下的制造业转型路径与企业绩效关系研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWJSCP3yilh0JJVbfsjo0uL6pgqhUxyRe5ENtNyp362aglmqfJVTE57scnDmUKD9UVvRx5l6Qpj40kVBhEs8QiBiu06eTna47OeMCB8M0CZHQD_PAfybtLQeT4RRMT3GzAWc9zwrliQ9hMY_G9pLExfiNq72HMZs135wiiTapAxu1pw1VElIgBl&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+================================================================================
+
+
+================================================================================
+📄 Title: The impact of corporate digital transformation on the export product quality: Evidence from Chinese enterprises
+🚩 Abstract: corporate governance. In terms of heterogeneity in digital transformation of enterprise and  the regional digital  the level of digital transformation and regional digital infrastructure, the
+🔑 Keywords: 企业数字化转型, 出口产品质量, 企业治理
+🔗 URL: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0293461
+📊 Citations: 7
+
+Related Chinese Papers Numbers:
+5
+--------------------------------------------------------------------------------
+1. 企业数字化转型如何影响出口产品质量?——来自中国上市公司的经验证据
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVMk8Z2tMMkMO2r-R_UvFRI7sU6Hk5ZvLKjE71-shRrqLW9MyQUsjanjhq6UDjgNlQ_Zfws9NsZhrh18nIuIWzHSl1J7VAcriESA5fZpEmWCmEYYl3yrguQuy_AEFMsBzfBOIr_eZaZo74v83dddWif1FZv3lRlVF6sbxvUXXrZRvUp9GrqjqBt&uniplatform=NZKPT&language=CHS
+   📊 Citations: 5
+
+2. 企业数字化转型对出口产品质量的影响研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUidvgKWR4eRU0-dGRp4E_bO51E0u5GNrNHY4QyXYxf4pVbQ6RQJ-q_uvvY-HXPyzJhobhTvU2QyYbgf2j4vk4EwysDeOsxGsVpHHY1gCVucAlDOiOXCv5WveoNDADu-xATT1GI5kMRMLJbJr-31v3oFQvaggVMyuUy3tYOXhKuimc-fOEo15n9&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+3. 企业数字化转型与出口产品质量提升——来自中国海关数据的分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhU9GhEhSgY8nkDG69ndS5N1Y9gEn2mm-S0p3U0cnGOYtZojaWS1PpVuuxxm6rcceHyOjLEB1eROs5Jx5CgzwIW6gg1EZcl_8NslucjxAKZPB8yJHHWBgEEALSycd2maqJKo-km_NxkjKJpRyihepIJbq7xnqCNAGP0HlyUAEGKccBQFVmOcBv7a&uniplatform=NZKPT&language=CHS
+   📊 Citations: 1
+
+4. 企业数字化转型与出口产品质量提升——基于价值增值视角的研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhU9GhEhSgY8nkDG69ndS5N1Y9gEn2mm-S1v9k9i0Poaoq7Udyqe1FnkHuPDFvRSY7B5j7IqQIdq_7ne4TvNgBfDwotpWKovNphAFgD0TnlDso62-h6M8W5x2x374WnyY9aLEZzi-ZJ8Sm_QpMILIF4NyUD82Cy7Bn7ByKHgawwxjj0swkE2SGwT&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+5. 企业数字化转型与中国出口产品质量升级:来自上市公司的微观证据
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXbjv7A8VCd5RhJZSXc8hZyQJYwiJtcUe4Y9LkGZVhOmacxTBzbb9chmBWIToto9GUc7cNXR-zHw0nPxVHBTB1Gr_iuSagqdDzDWsri8CFSFdyvtBPMw5Xtz_iIB1UoUMBqeTPRFFo67U7qdoxsO_-3_fso4rFDjPkQ7nJCltlCmIydv507vYYu&uniplatform=NZKPT&language=CHS
+   📊 Citations: 111
+
+================================================================================
+
+
+================================================================================
+📄 Title: Digital Transformation, Board Diversity, and Corporate Sustainable Development
+🚩 Abstract: for corporate digital transformation  of corporate sustainable development. Through both  theoretical inquiry and case study, this study investigates the influence of digital transformation
+🔑 Keywords: 数字化转型, 董事会多元化, 可持续发展
+🔗 URL: https://www.mdpi.com/2071-1050/16/17/7788
+📊 Citations: 4
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+

@@ -1,0 +1,241 @@
+Parameters:
+Working on Keyword: M&A Costs
+Max Citation Count: 10
+Max Results: 10
+Max Years: 5
+
+
+================================================================================
+📄 Title: Assessment of factors affecting agency cost in M&A context: a systematic literature review
+🚩 Abstract: cost and M&A has grown independently, with agency cost being examined as a mere  consequence. However, the intersection of agency cost in the M&A  agency cost in M&A context.
+🔑 Keywords: 代理商费, 并购, 控制成本
+🔗 URL: https://link.springer.com/article/10.1007/s00187-024-00381-6
+📊 Citations: 0
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: How do regulatory costs affect mergers and acquisitions decisions and outcomes?
+🚩 Abstract: substantial costs and constrain firms’ cost structures.  costs and explores its role in mergers  and acquisitions (M&A) decisions; specifically, large (small) firms with high regulatory costs
+🔑 Keywords: 监管成本, 并购, 企业决策
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S0378426624000761
+📊 Citations: 4
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Trading costs around M&A announcements
+🚩 Abstract: (M&A) announcements. Our study is twofold. First, we explore the effects of M&A announcements  on trading costs  Second, we assess whether trading costs are associated with method
+🔑 Keywords: IPO市场风险, 并购披露影响, 交易成本
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/17439131211216602/full/html
+📊 Citations: 6
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: How do regulatory costs affect M&A decisions and outcomes?
+🚩 Abstract: To document the economic channels that ROL affects M&A decisions, I also include implied  cost of equity and operating margin as control variables in the logit regressions. Due to the
+🔑 Keywords: 收购与合并, 法规成本, 套期 kosten
+🔗 URL: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3657217
+📊 Citations: 1
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The hidden costs of mergers and acquisitions
+🚩 Abstract: According to M&A information provider Mergerstat, corporate mergers and acquisitions are   Mergerstat reported that 2004 was "the best overall performance for M&A in the United States
+🔑 Keywords: 收购整合, 并购成本, 公司兼并
+🔗 URL: https://go.gale.com/ps/i.do?id=GALE%7CA143240824&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=00355593&p=AONE&sw=w
+📊 Citations: 7
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The Value Killers: How Mergers and Acquisitions Cost Companies Billions-and how to Prevent it
+🚩 Abstract: To date, analyses of the M&A failure rate tend to focus on individual causes – eg, culture  clashes, valuation methods, or CEO overconfidence – rather than examining the problem
+🔑 Keywords: 企业并购, 收购失败, M&A成本
+🔗 URL: https://link.springer.com/book/10.1007/978-3-030-12216-4
+📊 Citations: 8
+
+Related Chinese Papers Numbers:
+1
+--------------------------------------------------------------------------------
+1. 企业并购中的文化冲突与整合——由中信证券要约收购广发证券失败引起的思考
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVfYS-5L9ZRBhNLa5RGLo3FYVKYPDwRtP5GuSqESrehZuLp50pkZYOmet5m1RBYYG-9w_BxVi2qKam-1P5jwVQO-ievWz9DplVgmJbZHaJ6Xe7DjVzOh4dMkZvoKVY4MbMEQds_663_By6z3F1pKL3nR26ikr2RghHaM4h4r2KgOvYln8wC7DCY&uniplatform=NZKPT&language=CHS
+   📊 Citations: 3
+
+================================================================================
+
+
+================================================================================
+📄 Title: The benefits and costs of managerial earnings forecasts in mergers and acquisitions
+🚩 Abstract: existence of costs to disclosing inside information to competitors, we find that bidding firms  are less likely to provide forecasts in acquisitions with competing bids and when the costs of
+🔑 Keywords: 企业收购, 报价公司财务预测, 内幕信息 disclose
+🔗 URL: http://pages.stern.nyu.edu/~blev/files/Earnings-forecasts-in-mergers_draft_v20_Jan_12_2015_k4gn98s2.pdf
+📊 Citations: 8
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: M&A valuation for going concern: A case study using Samsung electronics' adjusted EBITDA Multiple
+🚩 Abstract: Investment decisions in M&A are made considering the assets ( costs for the target’s  sustainable management. We propose a new valuation method for recovering M&A investment costs
+🔑 Keywords: M&A评估, 企业并购, 财务成本 Recover
+🔗 URL: https://www.tandfonline.com/doi/abs/10.1080/23311975.2023.2209975
+📊 Citations: 5
+
+Related Chinese Papers Numbers:
+10
+--------------------------------------------------------------------------------
+1. 当归多糖对M2型巨噬细胞分化和功能的影响
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhV5Cb84U0iobKUz_4oA6F6LD6a7XCnmIqQtwz6l7mNmQvwvoYqNzlkOVNV3G9E20MdT4zTz9LQW82xsO9oIj7I16mHObGTxtuGTui1YwT6VTXZp-o3YJydkTARgXkbsP1e2N-n_6LG89s7KGhS7t_Is_f4fKKA-6rVyXYNyt1UmoCtjKXjrIlRu&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+2. 电脉冲处理对M2高速钢组织与性能的影响
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhV5Cb84U0iobKUz_4oA6F6Lku1hxa8vv3pp0hRzPVN14roLD4CobNNUGtEZ9xbRaiuiePG2dvuB4371OkNF6NbVSaSy7A3rAYHZueDWgfEUeUE2ochIutz3MWUOKXVzzSToDEsSEzwcaXMLQ2uCv6TfRIwfUe1XjQtUhId4IV5f0JhJqDXxhcFT&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+3. 结核分枝杆菌通过诱导巨噬细胞M2极化促进A549细胞增殖、迁移和侵袭
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWJNvD5HcZ1iVKr9rlEOSJjOhzPwFctu96jF47AugICKeTVVvDLEsdzmNRoWuMmLVjuqbaSQpQ2BEK9x1wvh7EfyC-Q4ku6HHNYMhkMXMFixHqB9BGiU0ctRarAO5MBBuqQM0dGVfyerNwVzXoBofTL0L0E0aAetcJSLPyMuSjuh7nh2eE_EooP&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+4. Ms点以下等温处理对15NiCuMoNb5钢组织的影响
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWcG0WmVwh0A-qoHZxQw37OWzL-KJrwKsMGyS03iN9WhPXYBNTJf1BZsfCkVWGoGZect6OphhJ_fN6fVByAPio2AbXYKWMfNaJKkIA3CZ-kQkjPfM8dLkFhHbLnDXdvHngbLZ59V0dA9u0CR2o-CMvMS0CJkrRlwGZ39OF-xrsBAXlcKIhNdKdO&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+5. 健康人粪便中携带blaCTX-M基因解鸟氨酸拉乌尔菌的分离、鉴定及全基因组分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWcG0WmVwh0A-qoHZxQw37OzkXVoWLM21q_ec-fBaMKY3n5pI4u2IznktVWQ6O79q5OHDpHTzEEXqPIvuWKqa8KGIPzBYzdbzmh-Mqulj6ux64EFGgll7eW5GevGMRMaASPbgFH6m0SbTBXN71v7PE0BqGnyuNUuXw3czhyqL9KZ65OpK006s_1&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+6. BMSCs通过miR-132-3p调控巨噬细胞M2型极化减轻脓毒症诱导的急性肺损伤
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUjMrCAvEO6z858_kfyDTbWuRjtNNdZegDr3BuCLzTa2Ox0r1TxTpdX70ELYkdc4G_48E7e2xYOPHNN6-9l321YzTy7gtbV5j3vFFqpo4xxC4dK4Hr1CjXfT-LC-ehPdAi73oZ7gaISkcmrld85APA_YY2vDhA2vLDAngqAHyBkmtsSSJUOcFRh&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+7. 冻干水平富血小板纤维蛋白(Ly-H-PRF)通过调控巨噬细胞M2型极化促进伤口愈合
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUjMrCAvEO6z858_kfyDTbWlwwEVII_tao6PGWw9IkDsjF5ViaVn0ypXHOAaym7KZdiYYuqn3kfGrON8chjdmbe6Q1Uqv7n5ojui-5ZvFsqAy2DV1va6HbB34kyIPPKh1fzyNv9g_V_k2RjxK_HCAixl-At3mzigiVrpmc-Wi56_RACsPOpIfzq&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+8. 近30年广东省降雨集中度时空分布特征及其影响因素分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWH33j--iYscd2tL2jwUY47ICGnwVd3PNJxIYZ_SmBw3ceTVt1zS6EDUkiNycTpKlFQ_25Woel-dmELIfyoG-7u_aot1_a1oTwXJtpn3bfbU6eRMpoajyJT76uhjBKGrbgSI-pUbwErosVRD281LBvwludwAVcrtKsvXBlEW5zSR80jGMaNFGUs&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+9. 大脑中动脉M1段动脉瘤血流导向装置植入术后多发无症状微出血1例
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWH33j--iYscd2tL2jwUY47ICGnwVd3PNJ_7P-S_XszT7bxDdRUd4fcJ0z4hMOo4j0jAfr593o8spzcj1CzK-_zAF8_YK0pP41WDBvZsQrnRzf9B84Q5fNUNqQrAhBAOBMTTy9rhZnspd9BRtp5XcG4gQJP8vkmNyPHFKl53F1oChM3G2ohYWvc&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+10. M2巨噬细胞来源的TNFSF13通过激活IRF8对胶质母瘤细胞替莫唑胺耐药的影响
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWH33j--iYscd2tL2jwUY47CvoHO_YLmo5bAXk0p6BRLdLxr53dvu-qJw8qzAXU076fpo3eitHvweawcxskRIY0jkVkxGha52kyQnCeunxZ9txJ3qJAE8pA86ERj95GjrvRRx9E8ee7Ry7qI8jd4ll8_wnfmvL-rn5Ei7m6H5azst_v4wWrSiYz&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+================================================================================
+
+
+================================================================================
+📄 Title: Decision support system for evaluating synergy real options in M&A
+🚩 Abstract: these models in their M&A systems. These  cost cash-flow scenarios for a potential acquisition  target company as a stand-alone (without M&A) in section 2.1 and then for sales and cost
+🔑 Keywords: M&A, 决策支持系统, 实 quyền价值
+🔗 URL: https://www.researchgate.net/profile/Jani-Kinnunen-2/publication/335881558_Decision_Support_System_for_Evaluating_Synergy_Real_Options_in_MA/links/5d82a87a299bf1996f77518e/Decision-Support-System-for-Evaluating-Synergy-Real-Options-in-M-A.pdf
+📊 Citations: 9
+
+Related Chinese Papers Numbers:
+10
+--------------------------------------------------------------------------------
+1. 当归多糖对M2型巨噬细胞分化和功能的影响
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUzwNhPsNUgwxPiRlKDVjGzRddtGngMmOVhIPwK0rGCQ3-mfh1ncWqVCCREfPt3JFqsotxIWmCgtFivp32cZRT3RqbbFAFZP3yATr5oOpMMlUaOzjJ21aP1JwU52Quw0WZxKAywnam0cDxDNokKOH-00liSZGc_0gyR4zSzHSbfw31_SOCJ8W34&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+2. 电脉冲处理对M2高速钢组织与性能的影响
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUzwNhPsNUgwxPiRlKDVjGz7HYEUev8yS9wEU-aXHekmw6gtQTNITFyA9yFm8smmwQIkjF7jGrIztuo_tbs-LpIrecCHgEURXQiyisg6o0pglQmFQQR3MpL-xYi0cRX6_yUXit-WPjlc3IIn0IHxUlv6rAD80WGkywLyECpp2HME-pixj3t5IPm&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+3. 结核分枝杆菌通过诱导巨噬细胞M2极化促进A549细胞增殖、迁移和侵袭
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhU4mCMBy2IsOtC7xE1_ZDO9IEBRdFHoTz4vo8h0XtcspeoR1MtFMzbSGnefhbQyUkDrhlLWpphvWLH0GP0PkyQ9YXzWnTuNmviJYnym0VOkCOe2oYuje3fwnrQ_hUe-ZcrWLNaMKA_Eh_WK7KJ-v_ah0hrMamANDLN-Cdwxm_aZncMp0tu8DuwW&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+4. Ms点以下等温处理对15NiCuMoNb5钢组织的影响
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhU4mCMBy2IsOtC7xE1_ZDO9IEBRdFHoTz4-N-l2saaY1g6rgybUZROimP5cFageD8-pklnxwx7mqv88J8TR8iHp2RzN7-et4BjDbHe1d2VTlJzQubPu5a4E-_TE_WfAeTaj_P_XbVD5dyqBE3h-xdcsZ7tZrrhRbMguvBkAZLn3hCQSoMe0DKUx&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+5. 健康人粪便中携带blaCTX-M基因解鸟氨酸拉乌尔菌的分离、鉴定及全基因组分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhV-4buzC00zG3R3gsGhXa2kPnV3cD3qqAjCsMDIloUbRpD0_oQd8Kxxuwv31x43f1XakOu3y4fWvyR-2sXlmuTRW09YsfvUa6NUMsfntFc8FWTrBKZewINQQOkl_loPpOGrSK4kgvSXVEeUhQO23Zj97OmZQH06G8nAxDgMugcgcJ09GfCkXDG7&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+6. BMSCs通过miR-132-3p调控巨噬细胞M2型极化减轻脓毒症诱导的急性肺损伤
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhV-4buzC00zG3R3gsGhXa2kPnV3cD3qqAjY00UBIuZ8EWP57Bay7lCcOokC7OaCkI6iCNXFKT81dNFa0ZwgP08V19uUXZaXc2N-_NM6i7S-BN8nGczzGODqbmwaMz4EY1UGaA9uV_8ndX-1BzK_gElIOhmzLs1nsFDt3ODyi_NQ4jfblP-bGAl9&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+7. 冻干水平富血小板纤维蛋白(Ly-H-PRF)通过调控巨噬细胞M2型极化促进伤口愈合
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhV-4buzC00zG3R3gsGhXa2kAeGGj_Gy0CSnmMRjz7kswfDcyrQTw60FqiaLzUAd1Y53ydfbezhpPCWw5vioHPLRZZflYhmvXN6Q2wEHPESqc70YRfyE90eATbCoNi8Vz2QGKpnNIGebBhA0Etp2dUQQ5zBXzae39-bK3X3yayBNGL0ZfgXo3cq9&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+8. 近30年广东省降雨集中度时空分布特征及其影响因素分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXqJUrsac6-k7_tQT_dCq0anoYZddnF6f59eIKxHPyU5gEgW8p_QmLcrws7wJ35vTQF3Qf1R_jVfprPN6VifmDZ1hms6EcleOV6c2_Ql3vNqOsu05QK09A9H5MD-Y6xBPOoLwDtgP1EjDhZxaYPQ8GCvjw5yRW9K2FfLY1tSjYboHJd-ZM1hr4C&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+9. 大脑中动脉M1段动脉瘤血流导向装置植入术后多发无症状微出血1例
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXqJUrsac6-k7_tQT_dCq0anoYZddnF6f421asn2o03ucvTTwx2I7_SphJ5JvwyRaiU6suM-0eroyPAADCp4AJJE9GmMua_n5eS5e63BS7ZWT3Sdq44hSj8ZGDPvm4b_GUw1VYnEpqLlki63pzTr1pWYEyRs87NXBpEkeDL3jJMNeP_GGjjvXL_&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+10. M2巨噬细胞来源的TNFSF13通过激活IRF8对胶质母瘤细胞替莫唑胺耐药的影响
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXqJUrsac6-k7_tQT_dCq0anFosIG7AWxPXqDf3egtzSM7QkJWhCoCbsDS68poefzwycy-N4RVwRyPMIvBW3Cn_VITOv2_4dTymXmGOs2Z_p0yWwTbuKCDJgbGbVkiBGBqLiEj3-mOnyB345cl_TBO-eAVE62IwCwLa-banDpAQ1Jr4payo5uDa&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+================================================================================
+
+
+================================================================================
+📄 Title: Mergers and acquisitions in supply bases
+🚩 Abstract: , a supplier) are highly correlated with its M&A activities in the current year. Additionally, past  supply base M&A activities should not be influenced by the current cost of the focal firm. We
+🔑 Keywords: 供应基地并购, 成本补偿, 供应商关系
+🔗 URL: https://journals.sagepub.com/doi/abs/10.1111/poms.13911
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+

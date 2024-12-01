@@ -1,0 +1,136 @@
+Parameters:
+Working on Keyword: Corporate Cash Holdings
+Max Citation Count: 10
+Max Results: 10
+Max Years: 5
+
+
+================================================================================
+📄 Title: Corporate cash holdings
+🚩 Abstract: Cash balances of corporations make up a substantial and growing proportion of total assets  for the typical company in the United States (US). For example, as we show below, cash and
+🔑 Keywords: 公司现金储备, 企业现金持有, 资产结构
+🔗 URL: https://www.elgaronline.com/edcollchap/book/9781800373891/book-part-9781800373891-12.xml
+📊 Citations: 7
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Temperature trend and corporate cash holdings
+🚩 Abstract: corporate cash holdings. Previous research has elucidated the determinants of corporate  cash holdings,  To investigate the effect of temperature trends on corporate cash holdings, we
+🔑 Keywords: 企业现金储备, 气温趋势, Cash Holdings
+🔗 URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/fima.12451
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Environmental regulations and corporate cash holdings
+🚩 Abstract: on the relation between corporate cash holding and the stringency of environmental regulations.   Overall, our results support our H1 and suggest corporate cash holdings are positively
+🔑 Keywords: 环境法规, 企业现金储备, 法律严格性
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S0890838924001379
+📊 Citations: 6
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Climate change social norms and corporate cash holdings
+🚩 Abstract: -established literature on corporate cash holdings and a nascent literature on CCSN, little  research has been done to explore the influence of CCSN on corporate cash holdings. We,
+🔑 Keywords: 气候变化社会.norms, 企业现金持有, 资金结构
+🔗 URL: https://link.springer.com/article/10.1007/s10551-023-05440-x
+📊 Citations: 8
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Advertising and corporate cash holdings
+🚩 Abstract: corporate cash holdings. Using a comprehensive sample of Chinese listed firms from the  2011–2022 period, we find that advertising increases corporate cash holdings cash holdings by
+🔑 Keywords: 企业现金储备, 广告投入, 现金储备管理
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1544612323008474
+📊 Citations: 3
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Top executive gender, corporate culture, and the value of corporate cash holdings
+🚩 Abstract: corporate cash holdings. More specifically, our finding of a substantial difference in the market’s  valuation of corporate cash holdings  to permeate all forms of corporate decision making.
+🔑 Keywords: 企业现金储备, 高管性别, 企业文化
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1572308923000542
+📊 Citations: 6
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The Effect of Drinking Culture on Corporate Cash Holdings
+🚩 Abstract: culture, especially drinking culture, also contributes to corporate cash holdings.  corporate  cash holding phenomenon. The cash literature suggests that rising corporate cash holdings
+🔑 Keywords: 企业内部文化, 企业现金储备, 喝酒文化
+🔗 URL: https://www.tandfonline.com/doi/abs/10.1080/1540496X.2024.2420602
+📊 Citations: 1
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Regional carbon efficiency and corporate cash holdings: evidence from China
+🚩 Abstract: corporate cash holdings. Few studies explore how regional carbon emissions affect corporate  cash holdings.  corporate cash holdings, enriching the literature on the factors influencing
+🔑 Keywords: 地区碳效率, 企业现金储备, 中国
+🔗 URL: https://www.nature.com/articles/s41599-023-01992-5
+📊 Citations: 2
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Climate change social norms and corporate cash holdings
+🚩 Abstract: -established literature on corporate cash holdings and a nascent literature on CCSN, little  research has been done to explore the influence of CCSN on corporate cash holdings. We,
+🔑 Keywords: 气候变化社会规范, 公司现金储备,  Climate change social norms and corporate cash holdings
+🔗 URL: https://link.springer.com/article/10.1007/s10551-023-05440-x
+📊 Citations: 8
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: CEO cultural background and corporate cash holdings
+🚩 Abstract: and CEO uncertainty avoidance on corporate cash holdings and a significantly negative  impact of CEO masculinity on corporate cash holdings, which is consistent with our hypothesis
+🔑 Keywords: CEO 文化背景, 企业现金储备, 风险避免
+🔗 URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/acfi.13019
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+

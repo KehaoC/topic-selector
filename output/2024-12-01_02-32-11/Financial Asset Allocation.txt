@@ -1,0 +1,176 @@
+Parameters:
+Working on Keyword: Financial Asset Allocation
+Max Citation Count: 10
+Max Results: 10
+Max Years: 5
+
+
+================================================================================
+📄 Title: Two Aspects of Digitalization Affecting Financial Asset Allocation: Evidence from China
+🚩 Abstract: Based on panel data of financial  allocate their financial assets in the process of digital  transformation. We find that digitalization has different impacts on financial asset allocation in
+🔑 Keywords: 数字化, 金融资产配置, .digital transformation
+🔗 URL: https://www.tandfonline.com/doi/abs/10.1080/1540496X.2023.2244142
+📊 Citations: 9
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Financial asset allocation and green innovation
+🚩 Abstract: of financial asset allocation motivation, this paper explores the impact of financial asset  allocation on green innovation based on the data of A-share listed non-financial companies from
+🔑 Keywords: 金融资产配置, 绿色创新, 股东激励
+🔗 URL: https://www.aimspress.com/aimspress-data/gf/2023/4/PDF/GF-05-04-020.pdf
+📊 Citations: 2
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Financial Asset allocation and the financial performance of commercial banks in kenya
+🚩 Abstract: The aim of this study was to establish the effect of financial assets allocation on the  the  financial years 2000 to 2012 to establish the relationship between financial asset allocation and
+🔑 Keywords: 金融资产配置,  BANK 展现 ,  Kenya 商业银行财务表演
+🔗 URL: http://erepository.uonbi.ac.ke/handle/11295/58540
+📊 Citations: 5
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The effect of financial knowledge on asset allocation for Chinese households
+🚩 Abstract: ' financial decision. To further improve financial market participation and asset allocation,  financial  further improvement in China's financial institutions for individual investors is needed.
+🔑 Keywords: 金融知识, 资产配置, 个人投资者
+🔗 URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-0106.12390
+📊 Citations: 8
+
+Related Chinese Papers Numbers:
+3
+--------------------------------------------------------------------------------
+1. 金融知识与基金投资收益:委托投资能否替代金融知识
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVg-NbXoHmMFu_C-7tSeGdq1DqtAVBRwcZbXD5NFmU3Bdbf-cT4AqkvzR1Q-dX0dZXrJdpmfKuKM5-0qZe3xPfanxh0PtTHWTmRbvcFVYHQ4UxVj24PIt6M_zkFQSWrq5vzSUrVrVpzhM5eohkPyzMyJaKLHf2D94_sWxwki4R-PGO_4UyDUNfy&uniplatform=NZKPT&language=CHS
+   📊 Citations: 42
+
+2. 教育背景与我国家庭股票市场参与——基于CFPS微观数据的实证分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVg-NbXoHmMFu_C-7tSeGdq1DqtAVBRwcY5p7TXt1b-4Df5jjvoQ7_j8NyKSVMyg5kfI8xnvS9ph-vvy7z1sSF7Cvo3MFgSjggSEeYDyfUtApid6z_0Mdb88FtMpKl1PCMHOuc7uNyPsvnsozACUA78-pMHp1-ksR7rHz1c_XVhUKD-gzOTnmMo&uniplatform=NZKPT&language=CHS
+   📊 Citations: 60
+
+3. 中国家庭金融投资组合的风险——过于保守还是过于冒进?
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWHodRdodphzID-tQkUQthA8P2zry-Dng3-ufr62W6XqBKbZ90omlt_A7eIQ1t3zbR5Drg8TQk3W_dijduRPHyvw32MisjEbGn5mW7z3XFj5tv_Gw-UYrVX9yPcXRvqbadqahqIsCKxqQqLpU2nHh8KHfeEfc8BHbSnpRXTbN3WOzpzIq2ZvDhW&uniplatform=NZKPT&language=CHS
+   📊 Citations: 214
+
+================================================================================
+
+
+================================================================================
+📄 Title: Digital transformation and enterprise financial asset allocation
+🚩 Abstract: Third, we explore the channel of corporate digital transformation to financial asset allocation  based on financial asset heterogeneity. Financial assets have dual attributes, serving as
+🔑 Keywords: 企业数字化转型, 金融资产配置, 金融资产异质性
+🔗 URL: https://www.tandfonline.com/doi/abs/10.1080/00036846.2024.2322578
+📊 Citations: 5
+
+Related Chinese Papers Numbers:
+2
+--------------------------------------------------------------------------------
+1. 实体企业金融化对数字化转型的影响及作用机理
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVdCWnOu5oxV3c2ygN6ttx7c4XR7A-cjODRjaz1UVuy6pOYtuYn5uOr3oM3vJNWrHL5lTcVNeCmhdXDsI6Nv-EZrVhtFNpPPvW4mGT50xy_hGllNXEHxW6xgtZFYyO3Z9rYJ5sb2qR0v8YfFFT49GP4tuL1O6D9pWoiAiJ8-qiA0mytzumzpKHX&uniplatform=NZKPT&language=CHS
+   📊 Citations: 9
+
+2. 金融资产配置对企业数字化转型的影响研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVdCWnOu5oxV3c2ygN6ttx7c4XR7A-cjOAMAv93UPOUeeDxNg8hWmwLMIerZ-_4Cx6TvJFE1aQ9hBHLbnAK-R-gOPQgYJbpJ1NtSrXFg5CMpeOqeTll3mEYENkc8hUKwmYQWd-xfwXhdlWGR0W8PFui5htaItMp1qPNRuvCj0TYHvobGMXSa7Wz&uniplatform=NZKPT&language=CHS
+   📊 Citations: 22
+
+================================================================================
+
+
+================================================================================
+📄 Title: Impact of the COVID-19 pandemic on household financial asset allocation: a China population study
+🚩 Abstract: financial asset allocation. To do so, we conducted an online survey of 712 people in China  to measure household financial asset allocation  in household asset allocation decisions at
+🔑 Keywords: COVID-19, 家庭财富配置, 投资决策
+🔗 URL: https://www.frontiersin.org/articles/10.3389/fpsyg.2022.990610/full
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Political background, digital finance, and risky financial asset allocation
+🚩 Abstract: The influencing factors of household financial asset allocation have been widely discussed  in household finance, but little is known regarding the impact of political background. Using
+🔑 Keywords: 家庭财务, 政治背景, 金融资产配置
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1059056024005860
+📊 Citations: 1
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: A study of the impact of digital finance usage on household consumption upgrading: Based on financial asset allocation perspective
+🚩 Abstract: that digital financial usage positively  financial asset allocation. This is evidenced across  four dimensions: participation in risky financial markets, augmentation of risky asset allocation,
+🔑 Keywords: 数字金融, 家庭消费升级, 金融资产配置
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1059056024006208
+📊 Citations: 2
+
+Related Chinese Papers Numbers:
+2
+--------------------------------------------------------------------------------
+1. 金融知识、金融市场参与度与消费升级
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXaNLx0fyGOZluoUeFP8zG_uEATXMhSl7-1YbBtKBPTVPu3bb-kF_4_FyuCzFfqwp5K8ZK36UfMo8uSgUhKkS8GD6rueXa75F3E1ZbLNy0PPVEhRwHKndDdHtpcsiXdIZ8YfohfwRjI7DW_x9VOyrLLoRDy1Gai1QfGT4vx0vEhN4OrjJWeufGu&uniplatform=NZKPT&language=CHS
+   📊 Citations: 5
+
+2. 数字金融能力对家庭消费升级影响的实证
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXaNLx0fyGOZluoUeFP8zG_uEATXMhSl78qq13XcRxwU_DaJmBy9rJBYuUznk9oRdfEsgRkRHkeY2fZo9-VF8KlnVDI9y1vU0nhmYZu8GIv_9SDZZreSHLd0rxs-nYttGTMAHpgvxg4Az1qeBNBl7NhmhVuRFnemhafhksrfdFAvOk0VcO8ABfB&uniplatform=NZKPT&language=CHS
+   📊 Citations: 36
+
+================================================================================
+
+
+================================================================================
+📄 Title: Impact of long-term care insurance on the financial asset allocation of middle-aged and elderly households: Evidence from China
+🚩 Abstract: structure and difficulty entering the risky financial asset  on financial assets and effectively  optimize the asset allocation  the smooth operation of financial markets and the healthy
+🔑 Keywords: 长期护理保险, 中老年家庭财务, 资产配置
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1057521924004484
+📊 Citations: 1
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Optimization of Financial Asset Allocation and Risk Management Strategies Combining Internet of Things and Clustering Algorithms
+🚩 Abstract: household financial asset allocation (FAA) and developing  offices, financial market trading  platforms, and social media. The optimized K-means++ clustering algorithm is used for asset
+🔑 Keywords: 金融资产配置, 风险管理,  IoT
+🔗 URL: https://ieeexplore.ieee.org/abstract/document/10736558/
+📊 Citations: 0
+
+Related Chinese Papers Numbers:
+1
+--------------------------------------------------------------------------------
+1. 新金融工具准则下保险资产配置策略与风险管理研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVjPWdxpRoFtDXbFilJQJhg-7yBjWZkxkBcMfFiJHhFUFz6vXTmJ91S9u5fr2uPI1gbgFYn_4ja8EFHYgY_G0aeLOXfzg3pAmbXt3r8xeegRZrrAznFgK7k4IrtRdjNJRZ7la_60LViYxks2n0ARlrz1oTVy4R4I2b4UevzeyTdbvcBqDE3OYYU&uniplatform=NZKPT&language=CHS
+   📊 Citations: 4
+
+================================================================================
+

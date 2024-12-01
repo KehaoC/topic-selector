@@ -1,0 +1,191 @@
+Parameters:
+Working on Keyword: Ownership Structure
+Max Citation Count: 10
+Max Results: 10
+Max Years: 5
+
+
+================================================================================
+📄 Title: Ownership structure characteristics and banks performance
+🚩 Abstract: This paper aims to examine the impact of ownership structure on the accounting-based  performance of listed Nigerian deposit money banks (DMBs) on Nigerian Exchange Group (NGX
+🔑 Keywords: 银行股权结构, 企业 performances, 所有权结构
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/CG-03-2023-0096/full/html
+📊 Citations: 1
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The effect of ownership structure on water disclosure in Indonesian companies
+🚩 Abstract: the relationship between ownership structure and the extent of  This study finds that  institutional ownership has a negative  with government ownership and foreign ownership. Our
+🔑 Keywords: 公司所有制结构, 水污染披露, 机构所有制
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S2199853123002871
+📊 Citations: 7
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: CSR and ownership structure: Moderating role of board characteristics in an emerging country context
+🚩 Abstract: ownership structure and  ownership structure on CSR and the role of board characteristics  in the aforesaid relationship, the present study examines the influence of four major ownership
+🔑 Keywords: 公司治理, 所有權结构,  Corporate Social Responsibility
+🔗 URL: https://onlinelibrary.wiley.com/doi/abs/10.1002/csr.2830
+📊 Citations: 2
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The moderating role of board diversity on the relationship between ownership structure and real earnings management
+🚩 Abstract: ownership structure’s impacts on REM. So, the primary research question of this study is:  What is the effect of ownership structure  moderate the impact of ownership structure on REM?
+🔑 Keywords: 股东结构, 董事会多样性, 财务管理
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/ajar-10-2022-0307/full/html
+📊 Citations: 4
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The influence of shareholder ESG performance on corporate sustainability: Exploring the role of ownership structure
+🚩 Abstract: Second, we contribute to the literature that examines how ownership structure  ownership  structures, regardless of the largest shareholder. Our results show that it is the ownership
+🔑 Keywords: 股东ESG表 hiện, 企业可持续发展, 股东结构
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S1544612324008304
+📊 Citations: 5
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Do ownership structure and board composition matter in firm performance? Regulatory influence in developing economy
+🚩 Abstract: interplay between firm performance and ownership structure.  ownership structure, examining  institutional ownership, sponsor ownership, foreign ownership, and government ownership
+🔑 Keywords: 公司治理, 股东结构, 公司业绩
+🔗 URL: https://link.springer.com/article/10.1057/s41310-024-00257-0
+📊 Citations: 3
+
+Related Chinese Papers Numbers:
+10
+--------------------------------------------------------------------------------
+1. 第二大股东对高管薪酬业绩敏感性的影响——基于国有企业的动态面板数据
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUPNtkXAMXoNxVi1Lvxz-vHchyBq_-oPnvPDBzPLRjLvdR4Tj5eqgazgtxZHSD_MB_j2kWihFdak0QYjPWwRhw8BJ9sx9vkGiL8Xkwco8riszUcNR3VIVnBnEOufBLlj3nSp26zFpnPGF2PWci39OLYkObVAZj1KX0Jx4DDW1MyvuoOODIDbb3-&uniplatform=NZKPT&language=CHS
+   📊 Citations: 13
+
+2. 公司治理与绩效研究述评
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUy1HLMBsnf8kuy1srMrtcU5hhzsV-Prx1etwR8bQY5uqniHgSvMTcsAwNXpckwH7OVkXUVraDy3m0Td72qJsInQrQY91s7fF5wZac_HjrSfcDmVdRCLKOywcg_WGSKzJDW-Z63E-_KFRXLiJwfOuVACjx7Z8ShgZxz2s5ohKsocw2YJXdUifW3&uniplatform=NZKPT&language=CHS
+   📊 Citations: 1
+
+3. 大股东监督、高管激励和薪酬业绩敏感度——基于股权分置改革研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhUy1HLMBsnf8kuy1srMrtcU5hhzsV-Prx3O2cSERD352FIBljmz34e93eQMnUz1NF7jSxtHC-oEQvPfmC_GUWvAzPfci4Mmcm3hc2rY2p1eFRyBLrMXzua-I_7ovXYRMVPmt6ifpbjbHg9RAlbtGy9C_Gw5JWjO0B8PYtEmtplgWGKp64tgomke&uniplatform=NZKPT&language=CHS
+   📊 Citations: 13
+
+4. 股权结构、产权性质与高管薪酬粘性——基于我国A股上市公司的实证研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXIx1C25P-ODWfAFPKpPGbkRI9lGPlvC9YsEscQdv0gO29ZBdsa1ozfq9qMUzwmJXY1R8Wo_Z1B04LlvdW8mGgpUdVMEZqsNAn-qpAqw8CBeS055vj4GatA8OCbxS3qxuwU3PzqQ2zDSXfQuWkvR2bUkWcUz5hrIgmIKnXyzyaeauoHBo3WPSkN&uniplatform=NZKPT&language=CHS
+   📊 Citations: 110
+
+5. 国企改革难题一重组就灵?
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXIx1C25P-ODWfAFPKpPGbkRI9lGPlvC9ZxY-fU-YpJ3i0pbB_EApl-iJUhswTGRJ5jJx65EwzWEDGXlLMltlRtNEYFUow2RkUJqwmT3aftwHgswmIlBjnL78quDeFSJ4HNWDAem2NWc1T-T9uA83w8VFzXL4TcNX4MNs_ahGDWdW129gitYXGk&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+6. 公司治理结构对内部控制有效性的影响——对深、沪上市公司数据的实证分析
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhXIx1C25P-ODWfAFPKpPGbkRI9lGPlvC9bP8Q0zHrLkCchVZoBxc6KnI0BbJkp8HvJlWxw8kCCJ2jC13JdNyrRX992zNZ0fKoJMRKno0W6M6LF1vFSZxl2X98ogcuuQfAtYqkx4ex_43ju5KrnYmD3HFWWIJAAhzXdC846ockoe_xY9kBuNZX5U&uniplatform=NZKPT&language=CHS
+   📊 Citations: 12
+
+7. 机构投资、高管薪酬与公司业绩研究
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWuRVLB009g47-mUcuu-Qtnow40DjJ-fFv4l_UHvh6VvrDm0Fgy9kYWPn7ZL5eFyH0ggxzsag_oO-cgGyM-dY0xK7_kpOYHG3UaG5A8X8OKFIPUD9b_SS6RXnyuUX1_cxWKF2eJoxevdbTGqUEQkumLXXxTfu5ZibbmT8KTkWcTqusHoW9Q70kj&uniplatform=NZKPT&language=CHS
+   📊 Citations: 73
+
+8. 国企董事会评价模型设计
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWuRVLB009g47-mUcuu-Qtnow40DjJ-fFvf-LvaJDCofI2Zmgbp6s7RlxXWnxxUxL5W9pE_zj1KqTiPxOS2YfoQ2muzaU3EzUMYK2XFe_yunIY8PY4rw13NAVUA-LaEhG2dB4D-Nco8vQ5Cugktc8koRftCUGXCGVyib-CNyL07jY2rhZ2RQEpc&uniplatform=NZKPT&language=CHS
+   📊 Citations: 0
+
+9. 董事会领导结构与公司治理绩效
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWwSyWEIknV7GMq4coC6JKJu1GfvbHRYRvU0EK8OLqt3Prum73Mju1N_Kf34Qv0snTpDQ7hLcYWNoB-OCdFBew984V8Ga1VXyThMUTk_MBfJLnpDsHkhid37-i2efusydCDUauWLVqL5sduxec5XNYe6q-_AHrloF0qk8ISy9kWdH56ZiVyHFwW&uniplatform=NZKPT&language=CHS
+   📊 Citations: 4
+
+10. 我国公司治理存在的问题及对策
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWwSyWEIknV7GMq4coC6JKJu1GfvbHRYRtqaeUaSivvIjR-uNfcvGq-fnTbV6L9dBwjYKKUfjaY1SS8BnPI-GU8_35aISZZbNzNsKuTmj3YblNwquj0x4EwZOUIM5VDRNVXrCdp9XDVENGAIkaO5St7zDhAbobq5rEW3--0eYIcjBUhbmP21NjA&uniplatform=NZKPT&language=CHS
+   📊 Citations: 3
+
+================================================================================
+
+
+================================================================================
+📄 Title: The moderating role of technological innovation on ownership structure, financing decisions and environmental accounting disclosure
+🚩 Abstract: This study investigates the effect of ownership structure (OS)  of how different ownership  structures and financing choices  concentrated ownership and state ownership significantly
+🔑 Keywords: 所有制结构, 融资决策, 技术创新
+🔗 URL: https://www.tandfonline.com/doi/abs/10.1080/23311975.2024.2396543
+📊 Citations: 2
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Monetary policy, ownership structure, and risk‐taking at financial intermediaries
+🚩 Abstract: This paper examines how ownership structure interacts with  that differences in bank ownership  influence the transmission of  the nature of bank ownership when setting monetary policy.
+🔑 Keywords: 货币Policy, 企业结构, 风险承担
+🔗 URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/fire.12329
+📊 Citations: 10
+
+Related Chinese Papers Numbers:
+1
+--------------------------------------------------------------------------------
+1. 实际货币供给、企业风险承担与营运资本目标结构的动态调整选择
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhVFDOHeVnU11RAfPL46pzRgPrJS6ZATu1hHZutUnJMPnrfJD_mknDHXTz6OGpChj8hpRF2i06nGh1HnAP1e-Bvr_rW03RL388w1-uATwGuy6jDWvj-BFvUPt7EU9YaUfXysvWZ3JJJZcfV0_zOenFS4-5adHrAh5uuYmDGfbEivkeWzU4VnacS3&uniplatform=NZKPT&language=CHS
+   📊 Citations: 23
+
+================================================================================
+
+
+================================================================================
+📄 Title: Ownership structure and integrated reporting quality: empirical evidence from an emerging market
+🚩 Abstract: This paper aims to examine the effect of ownership structure on the quality of integrated  reporting (IR) in the context of Malaysia. While the concept of IR is attracting significant attention,
+🔑 Keywords: 所有权结构, 综合报告, emitoklss
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/JFRA-02-2024-0101/full/html
+📊 Citations: 1
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Influence of ownership structure on company profitability and value in companies
+🚩 Abstract: ownership on firm value. This study re-examines the relationship between ownership structure   Ownership structure will increasingly play its role if the company's condition can achieve
+🔑 Keywords: 公司所有制结构, 企业价值, 股东权益结构
+🔗 URL: http://repository.umi.ac.id/1151/1/fhfjfjfed.pdf
+📊 Citations: 9
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+

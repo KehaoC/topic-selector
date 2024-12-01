@@ -1,0 +1,141 @@
+Parameters:
+Working on Keyword: Audit Fees
+Max Citation Count: 10
+Max Results: 10
+Max Years: 5
+
+
+================================================================================
+📄 Title: Effects of carbon emissions on audit fees
+🚩 Abstract: auditors consider carbon risk in their audit fee decisions and other factors that could  influence audit  This study draws a connection between carbon emissions and audit fees. It is
+🔑 Keywords: 碳排放, 审计费用, 气候风险
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/MAJ-10-2022-3734/full/html
+📊 Citations: 7
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Does auditor ethnicity matter in determining audit fees? Some empirical evidence from Indonesia
+🚩 Abstract: This study aims to investigate the presence of the audit partner ethnicity on audit fees within   of audit partner ethnicity on audit fees. The findings highlight the importance for audit firms to
+🔑 Keywords: ома账报 accountant ethnicity, 会计费用,  audit 等entity
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/ARJ-09-2022-0231/full/html
+📊 Citations: 6
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The effects of time pressure on audit fees
+🚩 Abstract: In the first part of this study, I analyze changes in audit fees on time-pressure engagements   Audit fees are used to proxy for audit effort and/or perceived audit risk. Results are
+🔑 Keywords: 审计费用, 时效压力, 会计风险
+🔗 URL: https://www.sciencedirect.com/science/article/pii/S0882611023000226
+📊 Citations: 5
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The effect of audit inspections on audit fees
+🚩 Abstract: includes only one or two Big 4 audit firms each year. It is audit inspections on audit fees  charged to clients by audit firms subject to inspection. Audit inspections impose costs on auditors
+🔑 Keywords: 会计检查, 审计费用, 审计 firm
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/PAR-02-2023-0017/full/html
+📊 Citations: 2
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Audit quality, firm value and audit fees: does audit tenure matter? Egyptian evidence
+🚩 Abstract: in this study to examine the influence of audit fees on audit quality and the effect of audit  quality on firm value in a developing market with a lack of enforcement of audit regulations.
+🔑 Keywords: 会计合并, 企业价值, 审计费用
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/JFRA-04-2023-0203/full/html
+📊 Citations: 8
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Natural disasters and audit fees
+🚩 Abstract: audit fees among different types of auditors. We find that top domestic audit firms are likely  to offer audit fee  the client firms are audited by international big-4 auditors, we, however, do
+🔑 Keywords: 自然灾害, 审计费用, 主要会计师 firm
+🔗 URL: https://www.tandfonline.com/doi/abs/10.1080/00014788.2023.2181752
+📊 Citations: 4
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Military directors and audit fees
+🚩 Abstract: between military connections and audit fees. This is consistent with auditors assessing a  lower audit risk, performing shorter audits, and charging lower audit fees to companies that
+🔑 Keywords: 军方关系, 审计费用, 风险评估
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/JAEE-06-2022-0158/full/html
+📊 Citations: 5
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: Implications of directors' education for audit fees: does the audit committee matter?
+🚩 Abstract: theories (ie agency, signalling and human capital), this paper aims to explore the effects  of directors’ education on audit fees and to assess the mediating role of audit committee (AC).
+🔑 Keywords: 董事会成员教育, 审计费用, 董事会委员
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/MAJ-05-2022-3544/full/html
+📊 Citations: 5
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
+
+================================================================================
+📄 Title: The impact of critical audit matters on audit report lag and audit fees: evidence from the United States
+🚩 Abstract: -LAFs and these differences may affect audit report lag and audit fees, we use each of the   undertake DID analyses for both audit report lag and audit fees as the dependent variables (
+🔑 Keywords: 关键事项, 审计报告延迟, 审计费用
+🔗 URL: https://www.emerald.com/insight/content/doi/10.1108/JFRA-03-2023-0158/full/html
+📊 Citations: 7
+
+Related Chinese Papers Numbers:
+1
+--------------------------------------------------------------------------------
+1. 审计报告文本语调对企业费用粘性的影响研究——基于关键审计事项的视角
+   🚩 Abstract: 
+   🔗 URL: https://kns.cnki.net/kcms2/article/abstract?v=RyE_S26iMhWNVpdxRHpsEfECqxFpTngnG3Q9UFU2LSer_StsSydhZYErZ7ZsrggsUI0QmSG0aD8blf3URLHm3NiqrKHINfAInfNDtcHcQBsgAfZoq7yBRhQG_Z3uoTH_jKuMH1pKnZQDM5OE8Hh9G8flK1QHFQrJhHHN1dE_4TPowLAarUr9SwdgkZo3a1Gj&uniplatform=NZKPT&language=CHS
+   📊 Citations: 4
+
+================================================================================
+
+
+================================================================================
+📄 Title: The relationship between intellectual capital and audit fees
+🚩 Abstract: related to audit fees and financial  audit fees. Moreover, findings indicate direct and significant  relationships between intellectual capital components and normal and abnormal audit fees
+🔑 Keywords: 知识资产, 审计费, 财务信息
+🔗 URL: https://www.mdpi.com/1911-8074/16/2/93
+📊 Citations: 8
+
+Related Chinese Papers Numbers:
+0
+--------------------------------------------------------------------------------
+================================================================================
+
